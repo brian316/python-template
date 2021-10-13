@@ -42,5 +42,5 @@ Edit the [.pre-commit-config.yaml](.pre-commit-config.yaml) file to add or remov
 
 ## License
 
-This project is licensed under the [MIT](LICENSE.md)
+This project is licensed under the [MIT](LICENSE)
 License
