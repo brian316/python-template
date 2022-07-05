@@ -1,5 +1,10 @@
+from utils.logger import init_logger
+
+logger = init_logger(__name__)
+
+
 def init():
-    pass
+    logger.info("Hello World!")
 
 
 if __name__ == "__main__":
